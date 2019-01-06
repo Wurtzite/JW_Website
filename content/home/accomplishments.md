@@ -18,14 +18,6 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
   
 [[item]]
   title = "Undergraduate Entrance Scholarship"
