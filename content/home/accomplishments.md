@@ -3,7 +3,8 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Accomplishments & Leadership Activities"
+title = "Accomplishments
+& Leadership Activities"
 subtitle = ""
 
 # Order that this section will appear in.
