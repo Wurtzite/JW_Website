@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Leadership & Community Activities"
@@ -37,8 +37,8 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 # [[filter]]
-#   name = "United By Music"
-#   tag = """Live music event raised $3,000 for Community Mental Health Association with local coporate sponsorship and community donations."""
+#   name = ""
+#   tag = "*"
 #
 # [[filter]]
 #   name = "Deep Learning"
