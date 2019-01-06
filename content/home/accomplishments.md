@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Neural Networks and Deep Learning"
   organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
