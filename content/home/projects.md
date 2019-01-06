@@ -38,7 +38,7 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 # [[filter]]
 #   name = "United By Music"
-#   tag = """Live music event raised $3,000 for Community Mental Health Association with local coporate sponsorship and community donations.""
+#   tag = """Live music event raised $3,000 for Community Mental Health Association with local coporate sponsorship and community donations."""
 #
 # [[filter]]
 #   name = "Deep Learning"
