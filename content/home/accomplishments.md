@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   title = "Academic and Integrity License"
   organization = "Ontario Consortium for Graduate Professional Skills"
   certificate_url = ""
-  date_start = "2017-09"
+  date_start = "Sept 2017"
   date_end = ""
   description = ""
  
