@@ -20,27 +20,82 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Undergraduate Entrance Scholarship"
+  organization = "University of Northern Iowa"
+  certificate_url = ""
+  date_start = "2009-08"
   date_end = ""
   description = ""
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Undergraduate Research Scholarship"
+  organization = "University of Northern Iowa"
+  certificate_url = ""
+  date_start = "2010-05"
   date_end = ""
   description = ""
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  title = "American Chemical Society Travel Award"
+  organization = "American Chemical Society"
+  certificate_url = ""
+  date_start = "2012-05"
+  date_end = ""
   description = ""
 
+[[item]]
+  title = "Iowa Pride Network Best College LGBT Group Award"
+  organization = "Iowa Pride Network"
+  certificate_url = ""
+  date_start = "2012-03"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Student Opportunities for Academic Research (SOAR) Grant"
+  organization = "US Department of Defense"
+  certificate_url = ""
+  date_start = "2010-05"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Lean Six Sigma (Yellow Belt)"
+  organization = "GoLeanSixSigma"
+  certificate_url = ""
+  date_start = "2017-12"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Academic and Integrity License"
+  organization = "Ontario Consortium for Graduate Professional Skills"
+  certificate_url = ""
+  date_start = "2017-09"
+  date_end = ""
+  description = ""
+ 
+ [[item]]
+  title = "Selling Into Industries: Healthcare, Certificate"
+  organization = "Lynda.com"
+  certificate_url = ""
+  date_start = "2017-11"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  title = "Project Management: Healthcare Projects, Certificate"
+  organization = "Lynda.com"
+  certificate_url = ""
+  date_start = "2017-11"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  title = "Learning Cloud Computing: Cloud Security, Certificate"
+  organization = "Lynda.com"
+  certificate_url = ""
+  date_start = "2017-11"
+  date_end = ""
+  description = ""
 +++
