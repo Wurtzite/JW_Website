@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "Undergraduate Entrance Scholarship"
   organization = "University of Northern Iowa"
   certificate_url = ""
-  date_start = "2009-08"
+  date_start = "2009"
   date_end = ""
   description = ""
 
