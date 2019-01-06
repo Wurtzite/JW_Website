@@ -10,12 +10,6 @@ date = 2016-04-20T00:00:00
 title = "custom"
 subtitle = ""
 
-[[custom]]
-  title = "Undergraduate Researcher"
-  company = "University of Northern Iowa"
-- Developed novel molecules for Department of Defense explosives research.
-- Increased accuracy of device and decreased number of possible shrapnel vectors.
-
 # Order that this section will appear in.
 weight = 60
 
