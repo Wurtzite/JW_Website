@@ -26,4 +26,14 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+  
+  [[item]]
+  title = "Neura"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+  
+  
 +++
