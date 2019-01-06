@@ -10,31 +10,37 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Epidemiology",
+    "Mental Health/Illness",
+    "Public Health",
+    "Chemistry"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Epidemiology"
+  institution = "University of Guelph"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Biochemistry"
+  institution = "University of Northern Iowa"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Specialization Certificate, Business of Healthcare"
+  institution = "University of Pennsylvania"
+  year = 2019
+  
+[[education.courses]]
+  course = "Specialization Certificate, Data Science"
+  institution = "Johns Hopkins University"
+  year = 2019
  
 +++
 
 # Biography
+Justin Wurtzel is a data analyst for Wellington-Dufferin-Guelph (WDG) Public Health and a graduate student of epidemiology at the University of Guelph in the Department of Population Medicince of the Ontario Veterinary College in the Centre for Public Health and Zoonoses.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research interests include mental health and illness, community factors on health and illness, health economics, and statistics. He works within the Health Analytics Department at WDG Public Health on K-12 immunization records.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
