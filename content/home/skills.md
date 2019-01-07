@@ -34,7 +34,7 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "fa-igloo"
+  icon = "igloo"
   icon_pack = "fas"
   name = "Cold Chain Training"
   description = "100%"
