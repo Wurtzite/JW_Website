@@ -32,12 +32,6 @@ weight = 7
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
-
-[[feature]]
-  icon = "link"
-  icon_pack = "fas"
-  name = "Cold Chain training"
-  description = ""
   
 [[feature]]
   icon = "diagnoses"
