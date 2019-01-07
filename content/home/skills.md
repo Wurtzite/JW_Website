@@ -33,10 +33,17 @@ weight = 7
   name = "Statistics"
   description = ""  
   
+  
 [[feature]]
-  icon = "link"
+  icon = "atom"
   icon_pack = "fas"
-  name = "Cold Chain Training"
+  name = "Research"
+  description = ""
+
+[[feature]]
+  icon = "bullhorn"
+  icon_pack = "fas"
+  name = "Public Speaking"
   description = ""
 
 +++
