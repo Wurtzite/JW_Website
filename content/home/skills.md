@@ -40,11 +40,23 @@ weight = 7
   description = ""
   
 [[feature]]
+  icon = "diagnoses"
+  icon_pack = "fas"
+  name = "Health Outcomes"
+  description = ""
+  
+[[feature]]
   icon = "atom"
   icon_pack = "fas"
   name = "Research"
   description = ""
 
+[[feature]]
+  icon = "briefcase-medical"
+  icon_pack = "fas"
+  name = "Health Economics"
+  description = ""
+  
 [[feature]]
   icon = "bullhorn"
   icon_pack = "fas"
