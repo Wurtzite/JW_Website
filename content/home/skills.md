@@ -34,9 +34,9 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-igloo"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Cold Chain Training"
+  description = "100%"
 
 +++
