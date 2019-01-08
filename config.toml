@@ -317,7 +317,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Manuscript(s)"
-  url = "#manuscript(s)"
+  url = "#projects"
   weight = 5
 
 [[menu.main]]
