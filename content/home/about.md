@@ -46,9 +46,9 @@ His research interests include mental health and illness, community factors on h
 
 Current Projects
 
-"Text Mining of 2018-2019 National Football League Season. An online population study on the Antisemetism, Racism, and Sexism of NFL audiences." (R Studio)
+-"Text Mining of 2018-2019 National Football League Season. An online population study on the Antisemetism, Racism, and Sexism of NFL audiences." (R Studio)
 
-"Sentiment Analysis and Text Mining of Influenza Vaccine 2018-2019 Flu Season in Guelph Ontario." (R Studio)
+-"Sentiment Analysis and Text Mining of Influenza Vaccine 2018-2019 Flu Season in Guelph Ontario." (R Studio)
 
-"Teaching simple AI to read handwritten physician immunization records." (R Studio)
+-"Teaching simple AI to read handwritten physician immunization records." (R Studio)
 
