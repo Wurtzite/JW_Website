@@ -14,8 +14,8 @@ weight = 50
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
 
-folder = "manuscript_1"
-
+folder = "projects"
+ 
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
