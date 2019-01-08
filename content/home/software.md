@@ -4,7 +4,7 @@ widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Software" 
-subtitle = ""
+subtitle = "Expertise"
 
 # Order that this section will appear in.
 weight = 15
