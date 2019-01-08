@@ -14,12 +14,17 @@ weight = 50
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
 
-folder = "projects"
+folder = "project"
+"Text Mining of 2018-2019 National Football League Season. An online population study on the Racism, Sexism of NFL audiences." (R Studio)
+
+"Sentiment Analysis and Text Mining of Influenza Vaccine 2018-2019 Flu Season in Guelph Ontario." (R Studio)
+
+"Teaching simple AI to read handwritten immunization records." (R Studio)
 
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 2
+view = 0
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
