@@ -71,7 +71,7 @@ enableGitInfo = false
   Otherwise email to book an appointment
   """
   phone = "647-548-5960"
-  skype = "echo123"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -263,22 +263,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "justinmwurtzel@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/jwurtzite"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  #[[params.social]]
+    #icon = "google-scholar"
+    #icon_pack = "ai"
+    #link = "https://google.ca
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/wurtzite"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -301,8 +301,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Experience"
+  url = "#Experience"
   weight = 2
 
 #[[menu.main]]
