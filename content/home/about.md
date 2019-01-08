@@ -45,6 +45,7 @@ Justin Wurtzel is a data analyst for Wellington-Dufferin-Guelph (WDG) Public Hea
 His research interests include mental health and illness, community factors on health and illness, health economics, and statistics. He works within the Health Analytics Department at WDG Public Health on K-12 immunization records.
 
 Current Projects
+
 "Text Mining of 2018-2019 National Football League Season. An online population study on the Antisemetism, Racism, and Sexism of NFL audiences." (R Studio)
 
 "Sentiment Analysis and Text Mining of Influenza Vaccine 2018-2019 Flu Season in Guelph Ontario." (R Studio)
