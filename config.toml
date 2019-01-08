@@ -317,8 +317,13 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Manuscript(s)"
-  url = "#projects"
+  url = "#manuscript(s)"
   weight = 5
+  
+#[[menu.main]]
+  #name = "Projects"
+  #url = "#projects"
+  #weight = 
 
 [[menu.main]]
   name = "Contact"
