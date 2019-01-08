@@ -4,7 +4,7 @@ widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Achievement" 
-subtitle = "and Scholarship"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 15
