@@ -20,11 +20,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[item]]
-  title = "Undergraduate Entrance Scholarship"
-  organization = "University of Northern Iowa"
-  certificate_url = ""
-  date_start = "2009-09-01"
+  title = "RStudio"
+  organization = "RStudio Inc."
+  website_url = "https://www.rstudio.com/"
+  date_start = ""
   date_end = ""
-  description = ""
+  description = "RStudio is a free and open-source integrated development environment for R, a programming language for statistical computing and graphics."
   
+[[item]]
+  title = "R-Project"
+  organization = "The R Foundation."
+  website_url = "https://www.r-project.org/"
+  date_start = ""
+  date_end = ""
+  description = "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis."
 +++
