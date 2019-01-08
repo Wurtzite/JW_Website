@@ -314,13 +314,12 @@ enableGitInfo = false
   name = "Achievements"
   url = "#accomplishments"
   weight = 4
-
+  
 [[menu.main]]
-  name = "Manuscript(s)"
-  url = "#manuscript(s)"
+  name = "Skills"
+  url = "#skills"
   weight = 5
-
-
+  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
