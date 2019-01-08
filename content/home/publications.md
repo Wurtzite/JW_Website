@@ -20,7 +20,9 @@ count = 1
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+list_format = 0
+"""
+“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)"""
 
 # Filter by publication type.
 # -1: Any
@@ -35,5 +37,7 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
+"""
+“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)"""
 +++
 
