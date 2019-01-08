@@ -302,7 +302,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Manuscript(s)"
-  url = "#Manuscript(s)"
+  url = "#manuscript(s)"
   weight = 2
 
 #[[menu.main]]
