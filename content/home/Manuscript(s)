@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "manuscript(s)"  # Do not modify this line!
+widget = "Manuscript(s)"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Manuscript(s)" 
