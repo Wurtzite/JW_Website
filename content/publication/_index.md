@@ -8,10 +8,11 @@ date = 2017-01-01T00:00:00
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 2
+list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
 caption = ""
+“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)
 +++
