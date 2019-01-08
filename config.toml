@@ -315,10 +315,10 @@ enableGitInfo = false
   url = "#accomplishments"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "#tutorials"
-  weight = 5
+#[[menu.main]]
+  #name = "Tutorials"
+  #url = "#tutorials"
+  #weight = 5
   
 [[menu.main]]
   name = "Contact"
