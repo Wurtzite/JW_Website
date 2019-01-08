@@ -5,12 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Contact"
-subtitle = "
-Collaborations
-
-Consultant
-
-Questions"
+subtitle = "Feel free to contact for potential collaborations, consultations, and questions."
 
 # Order that this section will appear in.
 weight = 70
