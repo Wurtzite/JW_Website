@@ -1,32 +1,31 @@
 +++
 # Date this page was created.
-date = "2013-11-22"
+date = "2019-01-01"
 
 # Project title.
-title = "China Bus System"
+title = "Mandi"
 
 # Project summary to display on homepage.
-summary = "We visualize national wide prefecture-level cities bus system (exclude Taiwai province). There are totally 24,500 bus lines in China in year 2013."
+summary = "Simple AI."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bus.png"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["visual", "gis", "rs", "urban", "bigdata"]`
-tags = ["visual", "urban", "gis", "bigdata"]
+tags = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://jianghao.wang/bus/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bus.png"
-caption = "China Bus System"
+image = ""
+caption = ""
 
 +++
 
 ## Introduction
-China bus system.
