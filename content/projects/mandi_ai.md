@@ -29,3 +29,4 @@ caption = ""
 +++
 
 ## Introduction
+Teaching a simple AI to read handwritten doctors notes and transcribing them to a digital format
