@@ -1,6 +1,6 @@
 +++
-title = ""
-date = ""
+title = "title"
+date = "2019-01-01"
 draft = false
 
 # Tags: can be used for filtering projects.
