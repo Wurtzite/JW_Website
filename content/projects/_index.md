@@ -1,6 +1,6 @@
 +++
-title = "Mandi"
-date = "2019-01-01"
+title = ""
+date = ""
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Teaching a simple AI to read handwritten doctors notes and transcribing them to a digital format"
+summary = ""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
