@@ -26,27 +26,7 @@ filter_default = 0
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
-  tag = "*"
-  
-[[filter]]
-  name = "GIS"
-  tag = ".gis"
-
-[[filter]]
-  name = "Remote Sensing"
-  tag = ".rs"
-
-[[filter]]
-  name = "Urban Studies"
-  tag = ".urban"
-
-[[filter]]
-  name = "Big Data"
-  tag = ".bigdata"
-
-[[filter]]
-  name = "Visual"
-  tag = ".visual"
+  name = ""
+  tag = ""
 
 +++
