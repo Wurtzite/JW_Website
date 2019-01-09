@@ -1,32 +1,21 @@
 +++
 # Projects widget.
-widget = "Projects"
-active = true
-date = 2016-04-20T00:00:00
+# This widget displays all projects from `content/project/`.
 
-title = "Project(s)"
+date = "2017-10-20T00:00:00"
+draft = false
+
+title = "Projects"
 subtitle = ""
+widget = "projects"
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-
-folder = "project"
- 
 # View.
 # Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 0
-
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
-
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
+# Legend: 0 = list, 1 = cards.
+view = 1
 
 # Filter toolbar.
 
@@ -34,20 +23,30 @@ flip_alt_rows = false
 filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
+# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = ""
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+[[filter]]
+  name = "All"
+  tag = "*"
+  
+[[filter]]
+  name = "GIS"
+  tag = ".gis"
+
+[[filter]]
+  name = "Remote Sensing"
+  tag = ".rs"
+
+[[filter]]
+  name = "Urban Studies"
+  tag = ".urban"
+
+[[filter]]
+  name = "Big Data"
+  tag = ".bigdata"
+
+[[filter]]
+  name = "Visual"
+  tag = ".visual"
 
 +++
-
