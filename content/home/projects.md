@@ -1,32 +1,45 @@
 +++
-# Projects widget.
-# This widget displays all projects from `content/project/`.
-
-date = "2017-10-20T00:00:00"
+title = "Mandi"
+date = "2019-01-01"
 draft = false
 
-title = "Projects"
-subtitle = ""
-widget = "projects"
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = []
 
-# Order that this section will appear in.
-weight = 30
+# Project summary to display on homepage.
+summary = "Teaching a simple AI to read handwritten doctors notes and transcribing them to a digital format"
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-view = 1
+# Slides (optional).
+#   Associate this page with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
 
-# Filter toolbar.
+# Optional external URL for project (replaces project detail page).
+external_link = ""
 
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
+# Links (optional).
+url_pdf = ""
+url_code = ""
+url_dataset = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
 
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = ""
-  tag = ""
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
