@@ -6,7 +6,7 @@ date = "2019-01-01"
 title = "Mandi"
 
 # Project summary to display on homepage.
-summary = "Simple AI."
+summary = "Teaching a simple AI to read handwritten doctors notes and transcribing them to a digital format."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
