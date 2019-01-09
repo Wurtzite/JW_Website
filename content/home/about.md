@@ -13,6 +13,7 @@ weight = 5
     "Epidemiology",
     "Mental Health/Illness",
     "Public Health",
+    "Bio/Statistics",
     "Chemistry"
   ]
 
