@@ -8,7 +8,7 @@ title = "Contact"
 subtitle = "Feel free to contact for potential collaborations, consultations, and questions."
 
 # Order that this section will appear in.
-weight = 70
+weight = 100
 
 # Automatically link email and phone?
 autolink = true
