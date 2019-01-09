@@ -1,7 +1,7 @@
 +++
-title = "Mandi"
+title = "Projects"
 date = "2019-01-01"
-draft = true
+draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
