@@ -2,6 +2,8 @@
 title = "Manuscripts"
 date = 2017-01-01T00:00:00
 
+“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)
+
 # List format.
 #   0 = Simple
 #   1 = Detailed
@@ -16,4 +18,4 @@ image = ""
 caption = ""
 
 +++
-“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)
+
