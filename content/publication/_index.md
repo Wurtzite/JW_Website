@@ -1,5 +1,5 @@
 +++
-title = "“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)
+title = "“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.” (In preparation)"
 authors = ["J Wurtzel, MSc", "Andrew Papadopoulos, PhD"]
 
 
