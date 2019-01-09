@@ -1,9 +1,11 @@
 +++
 # Date this page was created.
 date = "2019-01-01"
-weight = 21
+
 # Project title.
 title = "Projects"
+
+weight = 21
 
 # Project summary to display on homepage.
 summary = "Teaching a simple AI to read handwritten doctors notes and transcribing them to a digital format."
