@@ -1,7 +1,7 @@
 +++
 title = "“Univariable Logistic Regression Investigating Factors that Impact, Sense of Community and the Association with Mental Health Status at a Southwestern Ontario University: A Cross-Sectional Study.” -In Preparation "
 publication_types = ["3"]
-date = 2016-04-17T00:00:00
+date = 2019-01-01
 publication = ""
 abstract = ""
 authors = ["Justin Wurtzel MSc", "Andrew Papadopoulos PhD"]
