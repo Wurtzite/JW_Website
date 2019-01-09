@@ -1,10 +1,10 @@
 +++
-title = "“Influence of Sense of Community on Mental Health status and Ways to Improve Sense of Community at a Southwestern Ontario University.”"
+title = "“Univariable Logistic Regression Investigating Factors that Impact, Sense of Community and the Association with Mental Health Status at a Southwestern Ontario University: A Cross-Sectional Study.”"
+publication_types = ["3"]
 date = 2016-04-17T00:00:00
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Justin Wurtzel, MSc", "Andrew Papadopoulos, PhD"]
-
+publication = "In Preparation"
+abstract = ""
+authors = ["Justin Wurtzel MSc", "Andrew Papadopoulos PhD"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -14,10 +14,13 @@ authors = ["Justin Wurtzel, MSc", "Andrew Papadopoulos, PhD"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
 
-# Publication name and optional abbreviated version.
+title = "“second pub”"
+publication_types = ["3"]
+date = 2016-04-17T00:00:00
 publication = "In Preparation"
+abstract = ""
+authors = ["Justin Wurtzel MSc", "Andrew Papadopoulos PhD"]
 
 +++
 
