@@ -4,7 +4,9 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Epidemiologist. Data Scientist."
+title = "Epidemiologist. 
+
+Data Scientist."
  
 # Order that this section will appear in.
 weight = 3
