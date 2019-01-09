@@ -15,12 +15,5 @@ authors = ["Justin Wurtzel MSc", "Andrew Papadopoulos PhD"]
 # 5 = Book
 # 6 = Book chapter
 
-title = "“second pub”"
-publication_types = ["3"]
-date = 2016-04-17T00:00:00
-publication = "In Preparation"
-abstract = ""
-authors = ["Justin Wurtzel MSc", "Andrew Papadopoulos PhD"]
-
 +++
 
