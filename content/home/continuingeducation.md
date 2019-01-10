@@ -25,15 +25,24 @@ date_format = "January 2006"
   location = ""
   date_start = "2018-09-01"
   date_end = ""
-  description = """."""
+  description = """Course."""
 
 [[experience]]
-  title = "Graduate Researcher"
-  company = "University of Guelph"
+  title = "Business of Healthcare"
+  company = "University of Pennsylvania"
   company_url = ""
-  location = "Guelph, ON"
-  date_start = "2017-09-01"
+  location = ""
+  date_start = "2018-10-01"
   date_end = ""
-  description = """."""
+  description = """Specialization."""
+
+[[experience]]
+  title = "Data Science"
+  company = "Johns Hopskins University"
+  company_url = ""
+  location = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = """Specialization."""
 
 +++
