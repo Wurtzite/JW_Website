@@ -312,7 +312,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Continuing Education"
-  url = "#continuing" 
+  url = "#continuing education" 
   weight = 4
   
 [[menu.main]]
