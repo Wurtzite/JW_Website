@@ -28,7 +28,7 @@ date_format = "January 2006"
   description = """Course."""
 
 [[experience]]
-  title = "Business of Healthcare"
+  title = "Business of Healthcare, Certificate"
   company = "University of Pennsylvania"
   company_url = ""
   location = ""
@@ -37,7 +37,7 @@ date_format = "January 2006"
   description = """Specialization."""
 
 [[experience]]
-  title = "Data Science"
+  title = "Data Science, Certificate"
   company = "Johns Hopskins University"
   company_url = ""
   location = ""
@@ -45,7 +45,7 @@ date_format = "January 2006"
   date_end = ""
   description = """Specialization."""
 [[experience]]
-  title = "Lean Six Sigma (Yellow Belt)"
+  title = "Lean Six Sigma (Yellow Belt), Certificate"
   organization = "GoLeanSixSigma"
   certificate_url = ""
   date_start = "2017-12-01"
@@ -57,7 +57,7 @@ date_format = "January 2006"
   organization = "Ontario Consortium for Graduate Professional Skills"
   certificate_url = ""
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2017-10-01"
   description = ""
   
 [[experience]]
@@ -65,7 +65,7 @@ date_format = "January 2006"
   organization = "Lynda.com"
   certificate_url = ""
   date_start = "2017-11-01"
-  date_end = ""
+  date_end = "2017-12-01"
   description = ""
   
 [[experience]]
@@ -73,7 +73,7 @@ date_format = "January 2006"
   organization = "Lynda.com"
   certificate_url = ""
   date_start = "2017-11-01"
-  date_end = ""
+  date_end = "2018-01-01"
   description = ""
   
 [[experience]]
@@ -81,7 +81,7 @@ date_format = "January 2006"
   organization = "Lynda.com"
   certificate_url = ""
   date_start = "2017-11-01"
-  date_end = ""
+  date_end = "2017-12-01"
   description = ""
 
 +++
