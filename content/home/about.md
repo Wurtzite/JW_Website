@@ -28,14 +28,19 @@ weight = 5
   course = "BSc in Biochemistry"
   institution = "University of Northern Iowa"
   year = 2014
+  
+[[education.courses]]
+  course = "Understanding child development: from synapse to society--In Progress"
+  institution = "Utrecht University"
+  year = 2019
 
 [[education.courses]]
-  course = "Specialization Certificate, Business of Healthcare"
+  course = "Specialization Certificate, Business of Healthcare--In Progress"
   institution = "University of Pennsylvania"
   year = 2019
   
 [[education.courses]]
-  course = "Specialization Certificate, Data Science"
+  course = "Specialization Certificate, Data Science--In Progress"
   institution = "Johns Hopkins University"
   year = 2019
  
