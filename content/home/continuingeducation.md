@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = ""
   location = ""
   date_start = "2018-09-01"
-  date_end = "2018-11-01"
+  date_end = "2018-12-01"
   description = """Course."""
 
 [[experience]]
