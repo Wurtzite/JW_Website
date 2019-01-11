@@ -28,6 +28,15 @@ date_format = "January 2006"
   description = """Course."""
 
 [[experience]]
+  title = "ADHD: Everyday Strategies for Elementary Students"
+  company = "State University of New York"
+  company_url = ""
+  location = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """Course."""
+
+[[experience]]
   title = "Business of Healthcare, Certificate"
   company = "University of Pennsylvania"
   company_url = ""
