@@ -3,7 +3,7 @@
 date = "2019-01-01"
 weight = 30
 # Project title.
-title = "Books"
+title = "Projects"
 
 # Project summary to display on homepage.
 summary = ""
