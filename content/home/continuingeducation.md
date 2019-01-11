@@ -46,7 +46,7 @@ date_format = "January 2006"
   description = """Specialization."""
 [[experience]]
   title = "Lean Six Sigma (Yellow Belt), Certificate"
-  organization = "GoLeanSixSigma"
+  company = "GoLeanSixSigma"
   certificate_url = ""
   date_start = "2017-10-01"
   date_end = "2018-02-01"
@@ -54,7 +54,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Academic and Research Integrity License"
-  organization = "Ontario Consortium for Graduate Professional Skills"
+  company = "Ontario Consortium for Graduate Professional Skills"
   certificate_url = ""
   date_start = "2017-09-01"
   date_end = "2017-10-01"
@@ -62,7 +62,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Selling into Industries: Healthcare, Certificate"
-  organization = "Lynda.com"
+  company = "Lynda.com"
   certificate_url = ""
   date_start = "2017-11-01"
   date_end = "2017-12-01"
@@ -70,7 +70,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Project Management: Healthcare Projects, Certificate"
-  organization = "Lynda.com"
+  company = "Lynda.com"
   certificate_url = ""
   date_start = "2017-11-01"
   date_end = "2018-01-01"
@@ -78,7 +78,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Learning Cloud Computing: Cloud Security, Certificate"
-  organization = "Lynda.com"
+  company = "Lynda.com"
   certificate_url = ""
   date_start = "2017-11-01"
   date_end = "2017-12-01"
