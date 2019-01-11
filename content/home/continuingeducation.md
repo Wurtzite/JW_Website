@@ -48,8 +48,8 @@ date_format = "January 2006"
   title = "Lean Six Sigma (Yellow Belt), Certificate"
   organization = "GoLeanSixSigma"
   certificate_url = ""
-  date_start = "2018-02-01"
-  date_end = ""
+  date_start = "2017-10-01"
+  date_end = "2018-02-01"
   description = ""
   
 [[experience]]
