@@ -29,20 +29,6 @@ weight = 5
   institution = "University of Northern Iowa"
   year = 2014
   
-[[education.courses]]
-  course = "Understanding child development: from synapse to society"
-  institution = "Utrecht University--In Progress"
-  year = 2019
-
-[[education.courses]]
-  course = "Specialization Certificate, Business of Healthcare"
-  institution = "University of Pennsylvania--In Progress"
-  year = 2019
-  
-[[education.courses]]
-  course = "Specialization Certificate, Data Science"
-  institution = "Johns Hopkins University--In Progress"
-  year = 2019
  
 +++
 
