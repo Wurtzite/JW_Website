@@ -58,7 +58,7 @@ date_format = "January 2006"
   certificate_url = ""
   date_start = "2017-09-01"
   date_end = "2017-10-01"
-  description = "License."
+  description = ""
   
 [[experience]]
   title = "Selling into Industries: Healthcare, Certificate"
