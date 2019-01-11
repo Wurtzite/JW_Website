@@ -334,11 +334,16 @@ enableGitInfo = false
     name = "Projects"
     url = "#projects"
     weight = 8
-    
+ 
+ [[menu.main]]
+    name = "Books"
+    url = "#books"
+    weight = 9
+
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 10
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
