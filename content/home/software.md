@@ -25,7 +25,7 @@ date_format = ""
   website_url = "http://excelicare.com/"
   date_start = "2019-01-01"
   date_end = ""
-  description = "The Excelicare platform is an open, extensible, cloud-based technology platform grounded upon a multi-dimensional clinical data repository and offering superior interoperability capabilities. It has the ability to dynamically construct, for each patient, a coherent, longitudinal health record from the information on that patient contained in existing EHRs, claims repositories and other data sources. Excelicare facilitates the creation of connected healthcare communities, enabling care to be coordinated across sectors, specialties and disciplines."
+  description = """The Excelicare platform is an open, extensible, cloud-based technology platform grounded upon a multi-dimensional clinical data repository and offering superior interoperability capabilities. It has the ability to dynamically construct, for each patient, a coherent, longitudinal health record from the information on that patient contained in existing EHRs, claims repositories and other data sources. Excelicare facilitates the creation of connected healthcare communities, enabling care to be coordinated across sectors, specialties and disciplines."""
   
 [[item]]
   title = "RStudio"
@@ -33,7 +33,7 @@ date_format = ""
   website_url = "https://www.rstudio.com/"
   date_start = "2012-08-01"
   date_end = ""
-  description = "RStudio is a free and open-source integrated development environment for R, a programming language for statistical computing and graphics."
+  description = """RStudio is a free and open-source integrated development environment for R, a programming language for statistical computing and graphics."""
   
 [[item]]
   title = "R-Project"
@@ -41,7 +41,7 @@ date_format = ""
   website_url = "https://www.r-project.org/"
   date_start = "2012-08-01"
   date_end = ""
-  description = "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis."
+  description = """R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis."""
   
  [[item]]
   title = "Stata"
@@ -49,7 +49,7 @@ date_format = ""
   website_url = "https://www.stata.com/"
   date_start = "2017-09-01"
   date_end = ""
-  description = "Stata is a general-purpose statistical software package created in 1985 by StataCorp. Most of its users work in research, especially in the fields of economics, sociology, political science, biomedicine and epidemiology."
+  description = """Stata is a general-purpose statistical software package created in 1985 by StataCorp. Most of its users work in research, especially in the fields of economics, sociology, political science, biomedicine and epidemiology."""
   
   [[item]]
   title = "SAS"
@@ -57,7 +57,7 @@ date_format = ""
   website_url = "https://www.sas.com/"
   date_start = "2017-09-01"
   date_end = ""
-  description = "SAS Institute is an American multinational developer of analytics software. SAS develops and markets a suite of analytics software, which helps access, manage, analyze and report on data to aid in decision-making."
+  description = """SAS Institute is an American multinational developer of analytics software. SAS develops and markets a suite of analytics software, which helps access, manage, analyze and report on data to aid in decision-making."""
 
   [[item]]
   title = "SPSS"
@@ -65,7 +65,7 @@ date_format = ""
   website_url = "https://www.ibm.com/analytics/spss-statistics-software"
   date_start = "2017-09-01"
   date_end = ""
-  description = "SPSS Statistics is a software package used for interactive, or batched, statistical analysis."
+  description = """SPSS Statistics is a software package used for interactive, or batched, statistical analysis."""
   
   [[item]]
   title = "Tableau"
@@ -73,7 +73,7 @@ date_format = ""
   website_url = "www.tableau.com"
   date_start = "2012-08-01"
   date_end = ""
-  description = "Tableau Software is a software company that produces interactive data visualization products focused on business intelligence."
+  description = """Tableau Software is a software company that produces interactive data visualization products focused on business intelligence."""
   
   [[item]]
   title = "Power BI"
@@ -81,6 +81,6 @@ date_format = ""
   website_url = "https://powerbi.microsoft.com"
   date_start = "2018-08-15"
   date_end = ""
-  description = "Power BI is a business analytics service provided by Microsoft. It provides interactive visualizations with self-service business intelligence capabilities, where end users can create reports and dashboards by themselves, without having to depend on information technology staff or database administrators."
+  description = """Power BI is a business analytics service provided by Microsoft. It provides interactive visualizations with self-service business intelligence capabilities, where end users can create reports and dashboards by themselves, without having to depend on information technology staff or database administrators."""
   
 +++
