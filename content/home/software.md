@@ -23,10 +23,9 @@ date_format = ""
   title = "Excelicare"
   organization = "Practive Health Inc."
   website_url = "http://excelicare.com/"
-  date_start = "2019-01-14"
+  date_start = "2019-01-01"
   date_end = ""
-  description = "The Excelicare platform is an open, extensible, cloud-based technology platform grounded upon a multi-dimensional clinical data repository and offering superior interoperability capabilities. It has the ability to dynamically construct, for each patient, a coherent, longitudinal health record from the information on that patient contained in existing EHRs, claims repositories and other data sources.
-Excelicare facilitates the creation of connected healthcare communities, enabling care to be coordinated across sectors, specialties and disciplines."
+  description = "The Excelicare platform is an open, extensible, cloud-based technology platform grounded upon a multi-dimensional clinical data repository and offering superior interoperability capabilities. It has the ability to dynamically construct, for each patient, a coherent, longitudinal health record from the information on that patient contained in existing EHRs, claims repositories and other data sources. Excelicare facilitates the creation of connected healthcare communities, enabling care to be coordinated across sectors, specialties and disciplines."
   
 [[item]]
   title = "RStudio"
@@ -76,7 +75,7 @@ Excelicare facilitates the creation of connected healthcare communities, enablin
   date_end = ""
   description = "Tableau Software is a software company that produces interactive data visualization products focused on business intelligence."
   
-    [[item]]
+  [[item]]
   title = "Power BI"
   organization = "Microsoft"
   website_url = "https://powerbi.microsoft.com"
