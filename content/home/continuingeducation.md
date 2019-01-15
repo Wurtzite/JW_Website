@@ -24,7 +24,7 @@ date_format = "January 2006"
   company = "London Business School, University of London."
   company_url = ""
   location = ""
-  date_start = "2019-09-15"
+  date_start = "2019-01-15"
   date_end = ""
   description = """Course."""
   
