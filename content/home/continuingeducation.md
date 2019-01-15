@@ -19,6 +19,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Managing the Company of the Future."
+  company = "London Business School, University of London."
+  company_url = ""
+  location = ""
+  date_start = "2019-09-15"
+  date_end = ""
+  description = """Course."""
+  
+  Managing the Company of the Future
+University of London, London Business School
+  
+  [[experience]]
   title = "Understanding Child Development: From Synapse to Society"
   company = "Utrecht University"
   company_url = ""
