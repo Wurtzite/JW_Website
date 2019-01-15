@@ -29,9 +29,10 @@ caption = ""
 +++
 
 ## Currently Reading
-- The New Childhood: Raising Kids to Thrive in a Connected World by Jordan Shapiro
+- Big Data: How Data Analytics is Transforming the World by Tim Chartier PhD
 
 ## 2019 Favourites
+- The New Childhood: Raising Kids to Thrive in a Connected World by Jordan Shapiro
 - Becoming by Michelle Obama
 
 ## 2018 Favourites
