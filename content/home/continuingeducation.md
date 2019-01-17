@@ -57,7 +57,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Data Science, Certificate"
-  company = "Johns Hopskins University"
+  company = "Johns Hopkins University"
   company_url = ""
   location = ""
   date_start = "2018-10-01"
