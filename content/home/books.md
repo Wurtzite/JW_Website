@@ -30,7 +30,7 @@ caption = ""
 
 ## Currently Reading
 - Big Data: How Data Analytics is Transforming the World by Tim Chartier PhD
-
+- Dinner Party Economics by Eveline J. Adomait and Richard G. Maranta
 ## 2019 Favourites
 - The New Childhood: Raising Kids to Thrive in a Connected World by Jordan Shapiro
 - Becoming by Michelle Obama
