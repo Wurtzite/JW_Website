@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Clerk"
+  title = "Data Analyst"
   company = "Wellington-Dufferin-Guelph Public Health"
   company_url = ""
   location = "Guelph, ON"
