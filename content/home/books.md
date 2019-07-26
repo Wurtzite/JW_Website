@@ -29,9 +29,12 @@ caption = ""
 +++
 
 ## Currently Reading
+- The Imaginary Indian: The Image of the Indian in Canadian Culture by Daniel Francis
+- Indigenous Statistics by Maggie Walter and Chris Andersen
 - Big Data: How Data Analytics is Transforming the World by Tim Chartier PhD
 - Dinner Party Economics by Eveline J. Adomait and Richard G. Maranta
 ## 2019 Favourites
+- All Our Relations: Finding the Path Forward by Tanya Talaga
 - The New Childhood: Raising Kids to Thrive in a Connected World by Jordan Shapiro
 - Becoming by Michelle Obama
 
