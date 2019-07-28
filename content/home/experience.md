@@ -18,13 +18,31 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Epidemiologist"
+  company = "Sioux Lookout First Nations Health Authority"
+  company_url = ""
+  location = "Sioux Lookout, ON"
+  date_start = "2019-07-02"
+  date_end = ""
+  description = """
+- Oversees public health programs of 33 remote indigenous communities in Northwestern Ontario. 
+- Performs statistical analysis, health care planning, surveillance systems, and public health improvement. 
+- Plans and direct studies to investigate human disease, preventive methods, and treatments for disease.
+- Authors various health reports about the regional population and community sub-populations.
+- Supports innovative solutions to problems in rural environments utlizing dynamic dashboards and live updates to represent health information.
+
+One of Justin's main responsibilities as an epidemiologist is to supervise professional, technical and clerical personnel."""
+
 [[experience]]
   title = "Data Clerk"
   company = "Wellington-Dufferin-Guelph Public Health"
   company_url = ""
   location = "Guelph, ON"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2019-05-01"
   description = """
 - Data entry of information pertaining to new clients, updating information on existing clients.
 - Maintain the various databases as per current guidelines, ensure accuracy of data.
