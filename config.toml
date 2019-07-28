@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "justinmwurtzel@gmail.com"
-  address = "Centre for Public Health and Zoonoses"
+  address = ""
   office_hours = """
   Monday 10:00 to 13:00<br>
   Wednesday 09:00 to 10:00<br>
