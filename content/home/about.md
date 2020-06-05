@@ -34,7 +34,7 @@ weight = 5
 
 ## Biography
 
-<iframe src="https://art-bd.shinyapps.io/covid19canada/" width="150%" height="800px"></iframe>
+<iframe src="https://art-bd.shinyapps.io/covid19canada/" width="120%" height="800px"></iframe>
 
 Justin Wurtzel is the Epidemiologist for Sioux Lookout First Nations Health Authority (SLFNHA). Justin oversees public health programs of 33 remote indigenous communities in Northwestern Ontario. Performing statistical analysis, health care planning, surveillance systems, and public health improvement. Justin plans and direct studies to investigate human disease, preventive methods, and treatments for disease. One of Justin's main responsibilities as an epidemiologist is to supervise professional, technical and clerical personnel.
 
