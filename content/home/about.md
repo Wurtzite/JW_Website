@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Epidemiology",
-    "Mental Health/Illness",
     "Public Health",
-    "Bio/Statistics",
+    "Biostatistics",
+    "Artificial Intelligence",
     "Machine Learning",
     "Chemistry"
   ]
