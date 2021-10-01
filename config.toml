@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Justin Wurtzel"
-  role = ""
+  role = "Viral Hepatitis Surveilland Coordinator Epidemiologist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Guelph", url = "https://www.uoguelph.ca/" } ]
+  organizations = [ { name = "Des Moines University", url = "https://www.dmu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "justin.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -70,7 +70,7 @@ enableGitInfo = false
   Wednesday 09:00 to 10:00<br>
   Otherwise email to book an appointment
   """
-  phone = "647-548-5960"
+  phone = "515-305-9165"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -82,32 +82,11 @@ enableGitInfo = false
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  # Enable/disable map in Contact widget.
-  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-  # a map provider below.
-  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `map = 2`.
-  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-  #
-  # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
-
   # SITE SETUP
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "dark"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -122,7 +101,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "jWurtzite"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
