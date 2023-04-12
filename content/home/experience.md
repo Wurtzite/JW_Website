@@ -19,6 +19,15 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Viral Hepatitis Surveillance Coordinator"
+  company = "Iowa Department of Health and Human Services"
+  company_url = ""
+  location = "Des Moines, IA"
+  date_start = "2021-08-23"
+  date_end = ""
+  description = """
+- [...]
 
 [[experience]]
   title = "Epidemiologist"
@@ -26,7 +35,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Sioux Lookout, ON"
   date_start = "2019-07-02"
-  date_end = ""
+  date_end = "2021-03-07"
   description = """
 - Oversees public health programs of 33 remote indigenous communities in Northwestern Ontario. 
 - Performs statistical analysis, health care planning, surveillance systems, and public health improvement. 
