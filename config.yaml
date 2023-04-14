@@ -131,7 +131,7 @@ math : false
 #
 #   highlight_languages
 #     Add support for highlighting additional languages. Support for
- #     languages mentioned here will be included in all pages.
+#     languages mentioned here will be included in all pages.
 #
 #     Example: highlight_languages : ["go", "lisp", "ocaml"]
 #
@@ -146,13 +146,13 @@ math : false
 #   https://cdnjs.com/libraries/highlight.js/
 #
 #   For more info on the highlighting options, see:
-#   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-  highlight : true
-  highlight_languages : []
+# https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+highlight : true
+highlight_languages : []
 # highlight_style : "github"
 
 # Enable native social sharing buttons?
-  sharing : true
+sharing : true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
