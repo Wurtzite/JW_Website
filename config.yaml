@@ -59,17 +59,18 @@ section: [ "HTML", "RSS" ]
   #   Separate multiple entries with a comma, using the form: `[ {name:"Org1", url:""}, {name:"Org2", url:""} ]`.
   organizations : [ { name : "Des Moines University", url : "https://www.dmu.edu/" } ]
 
-  gravatar : false  # Get your avatar from Gravatar.com? (true/false)
-  avatar : "justin.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+gravatar : false  # Get your avatar from Gravatar.com? (true/false)
+avatar : "justin.jpg"  
+# Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  # Details for the Contact Widget
-  email : "justinmwurtzel@gmail.com"
-  address : "123 Rainbow Road"
-  office_hours : """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
+# Details for the Contact Widget
+email : "justinmwurtzel@gmail.com"
+address : "123 Rainbow Road"
+office_hours : """
+Monday 10:00 to 13:00<br>
+Wednesday 09:00 to 10:00<br>
+Otherwise email to book an appointment
+"""
   phone : "515-305-9165"
   skype : ""
   telegram : ""
