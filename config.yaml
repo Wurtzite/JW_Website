@@ -118,156 +118,156 @@ comment_count : true
 # Display next/previous section pager?
 section_pager : false
 
-  # Enable global LaTeX math rendering?
-  #   If false, you can enable it locally on a per page basis.
-  math : false
+# Enable global LaTeX math rendering?
+#   If false, you can enable it locally on a per page basis.
+math : false
 
-  # Highlight.js options
-  #   highlight
-  #     Enable global source code highlighting?  If false, you can
-  #     override it for a particular page in that page's preamble.
-  #
-  #     Example: highlight : true
-  #
-  #   highlight_languages
-  #     Add support for highlighting additional languages. Support for
-  #     languages mentioned here will be included in all pages.
-  #
-  #     Example: highlight_languages : ["go", "lisp", "ocaml"]
-  #
-  #   highlight_style
-  #     Choose a different CSS style for highlighting source
-  #     code. Setting this option in a page's preamble has no
-  #     effect.
-  #
-  #     Example: highlight_style : "github-gist"
-  #
-  #   For the list of supported languages and styles, see:
-  #   https://cdnjs.com/libraries/highlight.js/
-  #
-  #   For more info on the highlighting options, see:
-  #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+# Highlight.js options
+#   highlight
+#     Enable global source code highlighting?  If false, you can
+#     override it for a particular page in that page's preamble.
+#
+#     Example: highlight : true
+#
+#   highlight_languages
+#     Add support for highlighting additional languages. Support for
+ #     languages mentioned here will be included in all pages.
+#
+#     Example: highlight_languages : ["go", "lisp", "ocaml"]
+#
+#   highlight_style
+#     Choose a different CSS style for highlighting source
+#     code. Setting this option in a page's preamble has no
+#     effect.
+#
+#     Example: highlight_style : "github-gist"
+#
+#   For the list of supported languages and styles, see:
+#   https://cdnjs.com/libraries/highlight.js/
+#
+#   For more info on the highlighting options, see:
+#   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight : true
   highlight_languages : []
-  # highlight_style : "github"
+# highlight_style : "github"
 
-  # Enable native social sharing buttons?
+# Enable native social sharing buttons?
   sharing : true
 
-  # Privacy pack
-  #   Show a cookie consent message to visitors
-  #   Anonymize IP in Google Analytics (if enabled)
+# Privacy pack
+#   Show a cookie consent message to visitors
+#   Anonymize IP in Google Analytics (if enabled)
   privacy_pack : false
 
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
   custom_css : []
   custom_js  : []
 
-  # Publication types.
-  #   Used to categorize publications.
-  #   The index of the publication type in the list is used as its unique numerical identifier.
-  #   The numeric ID is used in a publication's frontmatter to categorize it.
-  #   The language can be edited below.
-  #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
-  #   translated.
+# Publication types.
+#   Used to categorize publications.
+#   The index of the publication type in the list is used as its unique numerical identifier.
+#   The numeric ID is used in a publication's frontmatter to categorize it.
+#   The language can be edited below.
+#   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+#   translated.
   publication_types : [
-    'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    'Uncategorized',# 0
+    'Conference paper',# 1
+    'Journal article',# 2
+    'Manuscript',# 3
+    'Report',# 4
+    'Book',# 5
+    'Book section'# 6
   ]
 
-  # Configuration of talk pages.
+# Configuration of talk pages.
   [params.talks]:
-    # Show talk time?
+# Show talk time?
     time : true
 
-  # Configuration of publication pages.
+# Configuration of publication pages.
   [params.publications]:
-    # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+# Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format : "January, 2006"
 
-  # Configuration of project pages.
+# Configuration of project pages.
   [params.projects]:
-    # List publications and talks related to the project?
+# List publications and talks related to the project?
     list_children : true
 
-    # Post list format.
-    #   0 : Simple
-    #   1 : Detailed
-    #   2 : Stream
+# Post list format.
+#   0 : Simple
+#   1 : Detailed
+#   2 : Stream
     post_format : 0
 
-    # Publication list format.
-    #   0 : Simple
-    #   1 : Detailed
-    #   2 : APA
-    #   3 : MLA
-    #   4 : Stream
+# Publication list format.
+#   0 : Simple
+#   1 : Detailed
+#   2 : APA
+#   3 : MLA
+#   4 : Stream
     publication_format : 0
 
-    # Talk list format.
-    #   0 : Simple
-    #   1 : Detailed
-    #   2 : Stream
+# Talk list format.
+#   0 : Simple
+#   1 : Detailed
+#   2 : Stream
     talk_format : 0
 
-  # Social/Academic Networking
-  #
-  # Icon pack "fab" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fas" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fontawesome.com/icons
-  #
-  # Icon pack "ai" includes the following academic icons:
-  #
-  #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
+# Social/Academic Networking
+#
+# Icon pack "fab" includes the following social network icons:
+#
+#   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+#   youtube, instagram, soundcloud
+#
+#   For email icon, use "fas" icon pack, "envelope" icon, and
+#   "mailto:your@email.com" as the link.
+#
+#   Full list: https://fontawesome.com/icons
+#
+# Icon pack "ai" includes the following academic icons:
+#
+#   cv, google-scholar, arxiv, orcid, researchgate, mendeley
+#
+#   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
     icon : "envelope"
     icon_pack : "fas"
-    link : "mailto:justinmwurtzel@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+    link : "mailto:justinmwurtzel@gmail.com"# For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon : "twitter"
     icon_pack : "fab"
     link : "https://twitter.com/jwurtzite"
 
-  #[[params.social]]
-    #icon : "google-scholar"
-    #icon_pack : "ai"
-    #link : "https://google.ca
+#[[params.social]]
+#icon : "google-scholar"
+#icon_pack : "ai"
+#link : "https://google.ca
 
   [[params.social]]
     icon : "github"
     icon_pack : "fab"
     link : "https://github.com/wurtzite"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon : "cv"
-  #   icon_pack : "ai"
-  #   link : "files/cv.pdf"
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[params.social]]
+#   icon : "cv"
+#   icon_pack : "ai"
+#   link : "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
-  # Align the main menu to the right of the page? (true/false)
+# Align the main menu to the right of the page? (true/false)
   align_right : true
 
 [[menu.main]]
@@ -329,14 +329,14 @@ section_pager : false
 
 # Search.
 [params.search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Built-in (Fuse)
-  #   2: Algolia (https://www.algolia.com)
+# Search provider:
+#   0: No search engine
+#   1: Built-in (Fuse)
+#   2: Algolia (https://www.algolia.com)
   engine : 0
 
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
+# Configuration of Algolia search engine.
+# Paste the values from your Algolia dashboard.
   [params.search.algolia]
     app_id : ""
     api_key : ""
