@@ -224,7 +224,7 @@ icon : "envelope"
 icon_pack : "fas"
 link : "mailto:justinmwurtzel@gmail.com"# For a direct email link, use "mailto:test@example.org".
 
-[[params.social]]
+[[params.social]]:
 icon : "twitter"
 icon_pack : "fab"
 link : "https://twitter.com/jwurtzite"
@@ -234,7 +234,7 @@ link : "https://twitter.com/jwurtzite"
 #icon_pack : "ai"
 #link : "https://google.ca
 
-[[params.social]]
+[[params.social]]:
 icon : "github"
 icon_pack : "fab"
 link : "https://github.com/wurtzite"
@@ -249,47 +249,47 @@ link : "https://github.com/wurtzite"
 # To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 # desired widget in your `content/home/` folder.
 # The weight parameter defines the order that the links will appear in.
-[params.menus]
+[params.menus]:
 # Align the main menu to the right of the page? (true/false)
 align_right : true
 
-[[menu.main]]
+[[menu.main]]:
 name : "Home"
 url : "#about"
 weight : 1
-[[menu.main]]
+[[menu.main]]:
 name : "Skills"
 url : "#skills"
 weight : 2
-[[menu.main]]
+[[menu.main]]:
 name : "Experience"
 url : "#experience"
 weight : 3
-[[menu.main]]
+[[menu.main]]:
 name : "Continuing Education"
 url : "#continuingeducation" 
 weight : 4
-[menu.main]]
+[menu.main]]:
 name : "Achievements"
 url : "#accomplishments"
 weight : 5 
-[[menu.main]]
+[[menu.main]]:
 name : "Software"
 url : "#software"
 weight : 6
-[[menu.main]]
+[[menu.main]]:
 name : "Publications"
 url : "#publications"
 weight : 7
-[[menu.main]]
+[[menu.main]]:
 name : "Projects"
 url : "#projects"
 weight : 8
-[[menu.main]]
+[[menu.main]]:
 name : "Books"
 url : "#books"
 weight : 9
-[[menu.main]]
+[[menu.main]]:
 name : "Contact"
 url : "#contact"
 weight : 10
@@ -300,7 +300,7 @@ weight : 10
 #  url : "files/cv.pdf"
 #  weight : 7
 # Search.
-[params.search]
+[params.search]:
 # Search provider:
 # 0: No search engine
 # 1: Built-in (Fuse)
@@ -308,13 +308,13 @@ weight : 10
 engine : 0
 # Configuration of Algolia search engine.
 # Paste the values from your Algolia dashboard.
-[params.search.algolia]
+[params.search.algolia]:
 app_id : ""
 api_key : ""
 index_name : ""
 show_logo : false
 # Taxonomies.
-[taxonomies]
+[taxonomies]:
 tag : "tags"
 category : "categories"
 publication_type : "publication_types"
@@ -322,7 +322,7 @@ publication_type : "publication_types"
 # Create a [languages.X] block for each language you want, where X is the language ID.
 # Refer to https://sourcethemes.com/academic/docs/language/
 # Configure the English version of the website.
-[languages.en]
+[languages.en]:
 languageCode : "en-us"
 # Uncomment the lines below to configure your website in a second language.
 # [languages.zh]
