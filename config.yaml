@@ -36,7 +36,7 @@ defaultContentLanguageInSubdir : false
 # Get last modified date for content from Git?
 enableGitInfo : false
 
-outputs :
+outputs =
 home: ["HTML", "CSS", "RSS", "JSON"]
 section: [ "HTML", "RSS" ]
 
