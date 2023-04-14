@@ -269,7 +269,7 @@ weight : 3
 name : "Continuing Education"
 url : "#continuingeducation" 
 weight : 4
-[menu.main]]:
+[[menu.main]]:
 name : "Achievements"
 url : "#accomplishments"
 weight : 5 
