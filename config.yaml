@@ -38,7 +38,6 @@ enableGitInfo : "false"
 
 outputs:
 home=["HTML", "CSS", "RSS", "JSON"]
-section: ["HTML", "RSS"]
 
 # Configure BlackFriday Markdown rendering.
 # See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
