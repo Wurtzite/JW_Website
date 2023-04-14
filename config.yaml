@@ -36,11 +36,13 @@ defaultContentLanguageInSubdir : false
 # Get last modified date for content from Git?
 enableGitInfo : false
 
-[[outputs]]:
+[outputs]:
 home: ["HTML", "CSS", "RSS", "JSON"]
 section: [ "HTML", "RSS" ]
+
 # Configure BlackFriday Markdown rendering.
 # See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+
 [blackfriday]:
 hrefTargetBlank : true  # `true` opens external links in a new tab.
 fractions : true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
