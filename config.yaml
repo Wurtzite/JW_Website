@@ -36,8 +36,9 @@ defaultContentLanguageInSubdir : false
 # Get last modified date for content from Git?
 enableGitInfo : false
 
-home: ["HTML", "CSS", "RSS", "JSON"]
-section: [ "HTML", "RSS" ]
+# outputs:
+# home: ["HTML", "CSS", "RSS", "JSON"]
+# section: [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
 # See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
