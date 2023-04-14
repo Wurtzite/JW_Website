@@ -72,52 +72,51 @@ telegram : ""
 keybase : ""  
 # Your keybase.io username.
 
-  # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url : ""
+# Enter an optional link for booking appointments (e.g. calendly.com).
+appointment_url : ""
 
-  # Discussion link (e.g. link to a forum, mailing list, or chat).
-  #   Uncomment line below to use.
-  #   discussion : { name : "Discuss", url : "https://discourse.gohugo.io" }
+# Discussion link (e.g. link to a forum, mailing list, or chat).
+#   Uncomment line below to use.
+#   discussion : { name : "Discuss", url : "https://discourse.gohugo.io" }
+# SITE SETUP
 
-  # SITE SETUP
+# Color theme.
+# Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+color_theme : "default"
+# Enable users to switch between day and night mode?
+day_night : true
 
-  # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme : "default"
-  # Enable users to switch between day and night mode?
-  day_night : true
+# Font style.
+#   Choose from `default`, `classic`, or `playfair`.
+font : "default"
 
-  # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  font : "default"
+# Description for social sharing and search engines. If undefined, author role is used in place.
+description : ""
 
-  # Description for social sharing and search engines. If undefined, author role is used in place.
-  description : ""
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image : ""
 
-  # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image : ""
+# Twitter username (without @). Used when a vistor shares your site on Twitter.
+twitter : "jWurtzite"
 
-  # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter : "jWurtzite"
+# Diplay a logo in navigation bar rather than title (optional).
+#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+logo : ""
 
-  # Diplay a logo in navigation bar rather than title (optional).
-  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo : ""
+# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+date_format : "2006-01"
+#   Examples: "3:04 pm" or "15:04"
+time_format : "3:04 PM"
 
-  # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format : "2006-01"
-  #   Examples: "3:04 pm" or "15:04"
-  time_format : "3:04 PM"
+# Show estimated reading time for posts?
+reading_time : true
 
-  # Show estimated reading time for posts?
-  reading_time : true
+# Display comment count? Requires commenting to be enabled.
+comment_count : true
 
-  # Display comment count? Requires commenting to be enabled.
-  comment_count : true
-
-  # Display next/previous section pager?
-  section_pager : false
+# Display next/previous section pager?
+section_pager : false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
