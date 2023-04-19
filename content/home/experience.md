@@ -37,11 +37,11 @@ date_format = "January 2006"
   date_start = "2019-07-02"
   date_end = "2021-03-07"
   description = """
-- Oversees public health programs of 33 remote indigenous communities in Northwestern Ontario. 
-- Performs statistical analysis, health care planning, surveillance systems, and public health improvement. 
-- Plans and direct studies to investigate human disease, preventive methods, and treatments for disease.
-- Authors various health reports about the regional population and community sub-populations.
-- Supports innovative solutions to problems in rural environments utlizing dynamic dashboards and live updates to represent health information.
+Oversees public health programs of 33 remote indigenous communities in Northwestern Ontario. 
+Performs statistical analysis, health care planning, surveillance systems, and public health improvement. 
+Plans and direct studies to investigate human disease, preventive methods, and treatments for disease.
+Authors various health reports about the regional population and community sub-populations.
+Supports innovative solutions to problems in rural environments utlizing dynamic dashboards and live updates to represent health information.
 
 One of Justin's main responsibilities as an epidemiologist is to supervise professional, technical and clerical personnel."""
 
