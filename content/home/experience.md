@@ -26,8 +26,7 @@ date_format = "January 2006"
   location = "Des Moines, IA"
   date_start = "2021-08-23"
   date_end = ""
-  description = """
-- [...]
+  description = """ Testing """
 
 [[experience]]
   title = "Epidemiologist"
