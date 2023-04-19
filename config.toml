@@ -42,9 +42,8 @@ fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a f
 smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 extensions = ["backslashLineBreak"]
 
-[[params]] =
+[[params]]
   # AUTHOR SETUP
-
   # Your details.
   name = "Justin Wurtzel"
   role = "Viral Hepatitis Surveilland Coordinator Epidemiologist"
