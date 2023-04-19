@@ -56,9 +56,8 @@ gravatar = false  # Get your avatar from Gravatar.com? (true/false)
 avatar = "justin.jpg"  
 # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-[[contact]]
 # Details for the Contact Widget
-email = 'justinmwurtzel@gmail.com'
+email = 0
 address = '123 Rainbow Road'
 phone = "515-305-9165"
 skype = ""
