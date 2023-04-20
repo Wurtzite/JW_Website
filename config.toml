@@ -57,13 +57,13 @@ avatar = "justin.jpg"
 # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
 # Details for the Contact Widget
-# email = 0
-# address = 0
-# phone = 0
-# skype = 0
-# telegram = 0
-# keybase = 0  
-# Your keybase.io username.
+email = "justinmwurtzel@gmail.com"
+address = 0
+phone = 0
+skype = 0
+telegram = 0
+keybase = 0  
+Your keybase.io username.
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -216,7 +216,7 @@ talk_format = 0
 [[params.social]]
 icon = "envelope"
 icon_pack = "fas"
-link = 0 # For a direct email link, use "mailto=test@example.org".
+link = "justinmwurtzel@gmail.com" # For a direct email link, use "mailto=test@example.org".
 
 [[params.social]]
 icon = "twitter"
