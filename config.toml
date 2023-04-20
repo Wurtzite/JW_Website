@@ -58,12 +58,7 @@ avatar = "justin.jpg"
 
 # Details for the Contact Widget
 email = "justinmwurtzel@gmail.com"
-address = 0
-phone = 0
-skype = 0
-telegram = 0
-keybase = 0  
-Your keybase.io username.
+
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
