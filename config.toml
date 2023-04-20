@@ -57,12 +57,12 @@ avatar = "justin.jpg"
 # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
 # Details for the Contact Widget
-# email = 
+# email = 0
 # address = 0
-# phone = "0
-# skype = ""
-# telegram = ""
-# keybase = ""  
+# phone = 0
+# skype = 0
+# telegram = 0
+# keybase = 0  
 # Your keybase.io username.
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
