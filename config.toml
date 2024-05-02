@@ -28,12 +28,6 @@ disqusShortname = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-132377254-1"
 
-[languages]
-  [languages.en]
-    lang = "en"
-    languageName = "English"
-    weight = 1
-
 # Get last modified date for content from Git?
 enableGitInfo = "false"
 
