@@ -13,7 +13,7 @@ title = "Justinian Wurtzel"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Justin Wurtzel 2019"
+copyright = "&copy; Justinian Wurtzel 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -28,10 +28,11 @@ disqusShortname = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-132377254-1"
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+[languages]
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
 
 # Get last modified date for content from Git?
 enableGitInfo = "false"
@@ -309,7 +310,7 @@ show_logo = false
 tag = "tags"
 category = "categories"
 publication_type = "publication_types"
-# Languages
+# s
 # Create a [languages.X] block for each language you want, where X is the language ID.
 # Refer to https=//sourcethemes.com/academic/docs/language/
 # Configure the English version of the website.
