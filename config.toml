@@ -45,7 +45,7 @@ extensions = ["backslashLineBreak"]
 [[params]]
   # AUTHOR SETUP
   # Your details.
-  name = "Justin Wurtzel"
+  name = "Justinian Wurtzel"
   role = "Viral Hepatitis Surveilland Coordinator Epidemiologist"
 
   # Organizations/Affiliations.
@@ -85,7 +85,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "jWurtzite"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -214,16 +214,6 @@ icon_pack = "fas"
 link = "justinmwurtzel@gmail.com" # For a direct email link, use "mailto=test@example.org".
 
 [[params.social]]
-icon = "twitter"
-icon_pack = "fab"
-link = "https=//twitter.com/jwurtzite"
-
-#[[params.social]]
-#icon = "google-scholar"
-#icon_pack = "ai"
-#link = "https=//google.ca
-
-[[params.social]]
 icon = "github"
 icon_pack = "fab"
 link = "https=//github.com/wurtzite"
@@ -246,38 +236,47 @@ align_right = true
 name = "Home"
 url = "#about"
 weight = 1
+
 [[menu.main]]
 name = "Skills"
 url = "#skills"
 weight = 2
+
 [[menu.main]]
 name = "Experience"
 url = "#experience"
 weight = 3
+
 [[menu.main]]
 name = "Continuing Education"
 url = "#continuingeducation" 
 weight = 4
+
 [[menu.main]]
 name = "Achievements"
 url = "#accomplishments"
 weight = 5 
+
 [[menu.main]]
 name = "Software"
 url = "#software"
 weight = 6
+
 [[menu.main]]
 name = "Publications"
 url = "#publications"
 weight = 7
+
 [[menu.main]]
 name = "Projects"
 url = "#projects"
 weight = 8
+
 [[menu.main]]
 name = "Books"
 url = "#books"
 weight = 9
+
 [[menu.main]]
 name = "Contact"
 url = "#contact"
@@ -289,6 +288,7 @@ weight = 10
 #  url = "files/cv.pdf"
 #  weight = 7
 # Search.
+
 [[params.search]]
 # Search provider=
 # 0= No search engine
@@ -297,12 +297,14 @@ weight = 10
 engine = 0
 # Configuration of Algolia search engine.
 # Paste the values from your Algolia dashboard.
+
 [[params.search.algolia]]
 app_id = ""
 api_key = ""
 index_name = ""
 show_logo = false
 # Taxonomies.
+
 [[taxonomies]]
 tag = "tags"
 category = "categories"
