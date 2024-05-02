@@ -99,35 +99,6 @@ section_pager = false
 #   If false, you can enable it locally on a per page basis.
 math = false
 
-# Highlight.js options
-#   highlight
-#     Enable global source code highlighting?  If false, you can
-#     override it for a particular page in that page's preamble.
-#
-#     Example= highlight = true
-#
-#   highlight_languages
-#     Add support for highlighting additional languages. Support for
-#     languages mentioned here will be included in all pages.
-#
-#     Example= highlight_languages = ["go", "lisp", "ocaml"]
-#
-#   highlight_style
-#     Choose a different CSS style for highlighting source
-#     code. Setting this option in a page's preamble has no
-#     effect.
-#
-#     Example= highlight_style = "github-gist"
-#
-#   For the list of supported languages and styles, see=
-#   https=//cdnjs.com/libraries/highlight.js/
-#
-#   For more info on the highlighting options, see=
-# https=//sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
-highlight_languages = []
-# highlight_style = "github"
-
 # Enable native social sharing buttons?
 sharing = true
 
@@ -141,13 +112,6 @@ privacy_pack = false
 custom_css = []
 custom_js  = []
 
-# Publication types.
-# Used to categorize publications.
-# The index of the publication type in the list is used as its unique numerical identifier.
-# The numeric ID is used in a publication's frontmatter to categorize it.
-# The language can be edited below.
-# For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
-# translated.
 publication_types = [
 'Uncategorized',# 0
 'Conference paper',# 1
@@ -155,19 +119,22 @@ publication_types = [
 'Manuscript',# 3
 'Report',# 4
 'Book',# 5
-'Book section'# 6
-]
+'Book section'# 6 ]
+
 [[params.talks]]
 # Show talk time?
 time = true
 # Configuration of publication pages.
+
 [[params.publications]]
 # Date format (refer to https=//sourcethemes.com/academic/docs/customization/#date-format )
 # Examples= "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "January, 2006"
 # Configuration of project pages.
+
 [[params.projects]]
 # List publications and talks related to the project?
+
 list_children = true
 # Post list format.
 # 0 = Simple
