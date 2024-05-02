@@ -119,7 +119,8 @@ publication_types = [
 'Manuscript',# 3
 'Report',# 4
 'Book',# 5
-'Book section'# 6 ]
+'Book section'# 6 
+]
 
 [[params.talks]]
 # Show talk time?
